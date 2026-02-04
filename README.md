@@ -1,2 +1,4 @@
 # amwin-financial-performance-analysis
 MBA Finance project analysing five years of financial statements of a manufacturing SME using ratio analysis, trend analysis, DuPont model, and common-size statements to evaluate financial performance, capital structure, and long-term financial stability.
+
+ This MBA Finance project analyses the financial performance and capital structure of Amwin Machining Pvt. Ltd., a manufacturing SME, over a five-year period (2020–2024). The study evaluates profitability, liquidity, solvency, efficiency, and capital structure decisions using financial statement analysis, ratio analysis, trend analysis, DuPont model, and common-size statements. The project aims to assess financial stability, resource utilisation, and shareholder return generation, and provides insights related to working capital management, leverage optimisation, and long-term financial planning to support managerial decision-making.
